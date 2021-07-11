@@ -24,13 +24,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/Bandhan-singh-katoch/",
+  linkedin: "https://www.linkedin.com/in/bandhan-singh-81ab481a4",
+  gmail: "parbhatbandhan@gmail.com",
+  facebook: "https://www.facebook.com/bandhan.singh.1422",
+  medium: "https://medium.com/@parbhatbandhan",
+  instagram: "https://www.instagram.com/bandhan.singh.1422/",
+  twitter: "https://twitter.com/BandhanSingh20?s=09",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
