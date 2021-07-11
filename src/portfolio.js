@@ -42,11 +42,11 @@ const skillsSection = {
   subTitle: "CRAZY ANDROID DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Front end / User Interfaces for your android applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡  Developed multiple apps from stretch and published them to play store"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Developed apps using multiple SDK like Firebase"
     )
   ],
 
@@ -101,9 +101,9 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Gulzar group of institutes",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/ggi-logo.png"),
       subHeader: "Computer Science & Engineering",
-      duration: "August 2019 - July 2023",
+      duration: "August 2019 - July 2023(expected)",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -111,7 +111,7 @@ const educationInfo = {
     },
     {
       schoolName: "Govt. Sri Ranbir Higher Secondary School",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/srml-logo.png"),
       subHeader: "Secondary Education",
       duration: "April 2017 - May 2019",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
